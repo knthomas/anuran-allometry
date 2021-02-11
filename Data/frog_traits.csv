@@ -1,0 +1,13 @@
+﻿Order,Family,Subfamily,Genus,Species,tiplabel_JetzPyron2019,adult_habitat,adult_activity,tad_microhab,tad_mouth,tad_eyes
+Anura,Pipidae,,Xenopus,victorianus,Xenopus_victorianus,aquatic,nocturnal,nektonic,terminal,lateral
+Anura,Bufonidae,,Bufo,bufo,Bufo_bufo,ground,nocturnal,benthic,anteroventral,dorsal
+Anura,Hylidae,Hylinae,Hyla,meridionalis,Hyla_meridionalis,scansorial,both,benthic,anteroventral,lateral
+Anura,Hylidae,Pseudinae,Pseudis,paradoxa,Pseudis_paradoxa,aquatic,both,nektonic,anteroventral,lateral
+Anura,Pyxicephalidae,Pyxiecephalinae,Aubria,subsigillata,Aubria_subsigillata,aquatic,nocturnal,benthic,anteroventral,dorsal
+Anura,Rhacophoridae,Rhacophorinae,Polypedates,leucomystax,Polypedates_leucomystax,scansorial,nocturnal,benthic,anteroventral,lateral
+Anura,Ranidae,,Rana,temporaria,Rana_temporaria,ground,both,benthic,anteroventral,dorsal
+Anura,Microhylidae,Microhylinae,Kaloula,pulchra,Kaloula_pulchra,subfossorial,nocturnal,nektonic,terminal,lateral
+Anura,Microhylidae,Microhylinae,Microhyla,rubra,Microhyla_rubra,subfossorial,nocturnal,nektonic,terminal,lateral
+Anura,Hemisotidae,,Hemisus,marmoratus,Hemisus_marmoratus,fossorial,both,nektonic,anteroventral,lateral
+Anura,Arthroleptidae,Leptopelinae,Leptopelis,spiritusnoctis,Leptopelis_spiritusnoctis,scansorial,nocturnal,benthic,anteroventral,dorsal
+Anura,Arthroleptidae,Astylosterninae,Trichobatrachus,robustus,Trichobatrachus_robustus,semiaquatic,nocturnal,benthic,ventral,dorsal
